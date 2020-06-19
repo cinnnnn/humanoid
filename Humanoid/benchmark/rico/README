@@ -1,0 +1,5 @@
+1. Make sure there is no remaining task
+2. Update DroidBot and Humanoid
+3. Update & clear QEMU images
+4. Check ADB, AAPT
+5. Run

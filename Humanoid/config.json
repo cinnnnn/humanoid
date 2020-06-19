@@ -1,0 +1,21 @@
+{
+    "model_path": "res/model/model_495000.ckpt",
+    "embedding_path": "res/model/model_495000.ckpt.embedding",
+
+    "training_dim": 2,
+    "predicting_dim": 1,
+    "total_interacts": 7,
+
+    "downscale_dim": [180, 320],
+    "frame_num": 4,
+
+    "navigation_back_bounds": {
+        "1280x768": [96, 1184, 288, 1280],
+        "1280x720": [90, 1184, 270, 1280],
+        "1920x1080": [135, 1776, 405, 1920],
+        "2560x1440": [180, 2392, 540, 2560]
+    },
+
+    "domain": "0.0.0.0",
+    "port": 50405
+}
